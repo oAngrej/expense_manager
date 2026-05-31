@@ -28,7 +28,7 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/expense-manager-pro.git](https://github.com/YOUR_USERNAME/expense-manager-pro.git)
+   git clone [https://github.com/imneural/expense_manager.git](https://github.com/imneural/expense_manager.git)
    cd expense-manager-pro
 
 2. Create a virtual environment (Optional but recommended):
